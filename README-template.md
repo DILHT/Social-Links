@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://dilht-social-links.vercel.app)
 
 ## My process
 first i worked on the aligning the tags in the html5 sematic and then afterwards i style the page using a different file a css file where i styled the links and add hovering to them 
@@ -54,6 +54,6 @@ I have learned how to flex-direction and gaps and media query
  
 ## Author
 
-- Website - [Daniel](https://www.your-site.com)
+- Website - [Daniel](https://dilht-social-links.vercel.app)
 - Frontend Mentor - [@DILHT](https://www.frontendmentor.io/profile/DILHT)
  
